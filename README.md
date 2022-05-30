@@ -4,7 +4,7 @@ I'm Job N. Nyameino, a medical doctor and digital health practitioner. I'm pursu
 
 ##Structure and Interpretation of Computer Programs
 
-The book [*Structure and Interpretation of Computer Programs*[(https://mitpress.mit.edu/sites/default/files/sicp/index.html) is a venerated text of computer science that has been around since the '80s and has managed to maintain its relevance even as the computing landscape has changed several times over.
+The book [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sites/default/files/sicp/index.html) is a venerated text of computer science that has been around since the '80s and has managed to maintain its relevance even as the computing landscape has changed several times over.
 
 Many respected computer scientists recommend this text wholeheartedly and I'm hoping to find out why by going through it.
 
