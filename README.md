@@ -8,3 +8,7 @@ The book [*Structure and Interpretation of Computer Programs*](https://mitpress.
 
 Many respected computer scientists recommend this text wholeheartedly and I'm hoping to find out why by going through it.
 
+
+# Programming Environment
+
+I'm using the MIT Scheme interpreter installed on a Linux machine.
