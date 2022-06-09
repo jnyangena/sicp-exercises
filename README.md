@@ -11,4 +11,4 @@ Many respected computer scientists recommend this text wholeheartedly and I'm ho
 
 # Programming Environment
 
-I'm using the MIT Scheme interpreter installed on a Linux machine.
+I'm using the MIT Scheme interpreter installed on an Arch Linux machine. 
